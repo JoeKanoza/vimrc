@@ -1,3 +1,4 @@
+
 " Vim with all enhancements
 unlet! skip_defaults_vim
 source $VIMRUNTIME/defaults.vim
